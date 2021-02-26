@@ -1,0 +1,1 @@
+{"acces_url":"\/search-by-name?name=batman","time":14}<br/>{"acces_url":"\/search-by-name?name=batman","time":18}<br/>{"acces_url":"\/search-by-name?name=batman","time":20}<br/>{"acces_url":"\/search-random","time":14}<br/>{"acces_url":"\/search-random","time":18}<br/>
